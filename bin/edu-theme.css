@@ -1,0 +1,83 @@
+/* Neon Education Theme by Cole R Lawrence */
+.cm-s-edu.CodeMirror {
+  background: #0c1021;
+  color: #f8f8f8;
+}
+.cm-s-edu .CodeMirror-selected {
+  background: #4d4e68 !important;
+}
+.cm-s-edu .CodeMirror-gutters {
+  background: #0c1021;
+  border-right: 0;
+}
+.cm-s-edu .CodeMirror-linenumber {
+  color: #888;
+}
+.cm-s-edu .CodeMirror-cursor {
+  border-left: 2px solid #f5f4f3 !important;
+}
+.cm-s-edu .cm-punctuation {
+  color: #ef00ae;
+}
+.cm-s-edu .cm-keyword {
+  color: #d6ff00;
+}
+.cm-s-edu .cm-atom {
+  color: #799bcf;
+}
+.cm-s-edu .cm-number {
+  color: #799bcf;
+}
+.cm-s-edu .cm-def {
+  color: #8da6ce;
+}
+.cm-s-edu .cm-variable {
+  color: #f5f4f3;
+}
+.cm-s-edu .cm-operator {
+  color: #b95cf6;
+}
+.cm-s-edu .cm-comment {
+  color: #aeaeae;
+}
+.cm-s-edu .cm-string {
+  color: #ff5ed8;
+}
+.cm-s-edu .cm-string-2 {
+  color: #f0d16f;
+}
+.cm-s-edu .cm-meta {
+  color: #799bcf;
+}
+.cm-s-edu .cm-builtin {
+  color: #8da6ce;
+}
+.cm-s-edu .cm-tag {
+  color: #8da6ce;
+}
+.cm-s-edu .cm-attribute {
+  color: #8da6ce;
+}
+.cm-s-edu .cm-property {
+  color: #00c2ff;
+}
+.cm-s-edu .cm-header {
+  color: #ff6400;
+}
+.cm-s-edu .cm-hr {
+  color: #aeaeae;
+}
+.cm-s-edu .cm-link {
+  color: #8da6ce;
+}
+.cm-s-edu .cm-error {
+  background: #9d1e15;
+  color: #f8f8f8;
+}
+.cm-s-edu .CodeMirror-activeline-background {
+  background: #181c30 !important;
+}
+.cm-s-edu .CodeMirror-matchingbracket {
+  outline: 1px solid #808080;
+  color: #fff !important;
+}
