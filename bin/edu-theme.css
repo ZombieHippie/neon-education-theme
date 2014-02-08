@@ -77,7 +77,9 @@
 .cm-s-edu .CodeMirror-activeline-background {
   background: #181c30 !important;
 }
+.cm-s-edu .cm-matchhighlight,
 .cm-s-edu .CodeMirror-matchingbracket {
-  outline: 1px solid #808080;
-  color: #fff !important;
+  margin: -1px;
+  border-radius: 0.2em;
+  border: 1px solid #808080;
 }
